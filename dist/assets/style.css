@@ -1,3 +1,5 @@
 body{
-       background-color: silver;
+       background-color: silver; 
+       display: subgrid;
+       color: #000;
 }
