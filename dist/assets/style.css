@@ -1,5 +1,11 @@
 body{
+       margin: auto;
        background-color: silver; 
        display: subgrid;
        color: #000;
+       font-size: 40px;     
+}
+header{
+       color: orangered;
+       font: optional;
 }
